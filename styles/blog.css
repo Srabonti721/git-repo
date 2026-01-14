@@ -6,3 +6,12 @@ div{
     border-radius: 10px;
     border: 5px solid green;
 }
+.github{
+    text-align: center;
+    font-size: 30px;
+    background-image:url("../gill.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
